@@ -65,11 +65,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CodeSyntaxCreator/CodeSyntaxCreator/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/CodeSyntaxCreator/count.svg?"  />
 </div>
